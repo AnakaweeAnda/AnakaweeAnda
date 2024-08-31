@@ -6,7 +6,7 @@
 [![Skills](https://skillicons.dev/icons?i=cpp,latex)](https://skillicons.dev)
 ### btw I'm just a beginner in programming so please be kind to me.
 ## Stats 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anda130249)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anda130249)](https://codeforces.com/profile/anda130249)
 ## Achievements
 - Participated in **IPST1/2023 Mathematics Camp** (usually called **Thailand IMO 2024 TSTST**)
 - Silver Medal 🥈 with Highest Score in Northern Provinces in **The 20th Thailand Mathematical Olympiad (TMO)**
