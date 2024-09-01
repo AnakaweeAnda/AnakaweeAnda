@@ -14,7 +14,7 @@
 - Participation in **The 18th Thailand Mathematical Olympiad (TMO)**
 - Gold Medal 🥇 with 2nd National highest score in 11th Thailand Mathematics Contest
 - Gold Medal 🥇 in 2023 ASMO Thai Competition
-- 2021-2023 POSN2 Mathematics Camp at Naresuan Univerity
+- 2021-2023 POSN2 Mathematics Camp at Naresuan University
 - 2022 POSN1 Physics Camp at Naresuan University
 ## My Interests
 - 💻 Competitive Programming
