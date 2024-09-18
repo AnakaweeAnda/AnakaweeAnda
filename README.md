@@ -1,7 +1,7 @@
 ## Hello There!
 My name is Anakawee Chujinda (usually called Anda).  
 I'm a first-year Computer Engineering student (CEDT#02) at Chulalongkorn University.    
-![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)
+<br>![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)</br>
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=cpp,latex)](https://skillicons.dev)
 ### btw I'm just a beginner in programming so please be kind to me.
