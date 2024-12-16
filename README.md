@@ -17,6 +17,6 @@ I'm a first-year Computer Engineering student (CEDT#02) at Chulalongkorn Univers
 - 2021-2023 POSN2 Mathematics Camp at Naresuan University
 - 2022 POSN1 Physics Camp at Naresuan University
 ## My Interests
+- Data Science and AI
 - 💻 Competitive Programming
-- 📐 Mathematics (especially Discrete Math)
-- 🤖 AI
+- 📐 Mathematics 
