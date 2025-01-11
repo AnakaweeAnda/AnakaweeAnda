@@ -3,8 +3,7 @@ My name is Anakawee Chujinda (usually called Anda).
 I'm a first-year Computer Engineering student (CEDT#02) at Chulalongkorn University.    
 <br>![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)</br>
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=cpp,latex)](https://skillicons.dev)
-### btw I'm just a beginner in programming so please be kind to me.
+[![Skills](https://skillicons.dev/icons?i=cpp,python,java,latex)](https://skillicons.dev)
 ## Stats 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anda130249)](https://codeforces.com/profile/anda130249)
 ## Achievements
